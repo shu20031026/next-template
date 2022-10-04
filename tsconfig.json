@@ -14,7 +14,8 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
-    "baseUrl": "./",
+    //path aliasの設定
+    "baseUrl": "./", 
     "paths": {
       "~/*": [ "./src/*" ],
       "/*": [ "*" ]
