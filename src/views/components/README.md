@@ -56,5 +56,5 @@ domain に関連する component を管理します。
 ### Domain - 関心 (名詞)
 - 人(ロール)や物(名詞)など "関心の対象" を表す単語のことを指します。
 
-これらをもとに`{Domain}{Case}{Base}` といった命名を意識してください。<br />
+これらをもとに`{Domain}{Case}{Base}` といった命名にしてください。<br />
 参考記事：[BCD Design によるコンポーネントの分類](https://qiita.com/misuken/items/19f9f603ab165e228fe1#bcd-design-%E3%81%A8%E3%81%AF)
